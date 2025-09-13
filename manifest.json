@@ -1,7 +1,7 @@
 {
   "name": "紫微斗数",
   "short_name": "紫微斗数",
-  "description": "基于iztro实现的react紫微斗数星盘应用",
+  "description": "紫微斗数星盘应用",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
