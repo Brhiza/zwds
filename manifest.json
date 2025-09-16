@@ -4,7 +4,6 @@
   "description": "紫微斗数星盘应用",
   "start_url": ".",
   "display": "standalone",
-  "display_override": ["fullscreen", "minimal-ui"],
   "background_color": "#ffffff",
   "theme_color": "#1B1B1B",
   "orientation": "portrait-primary",
