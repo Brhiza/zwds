@@ -9108,7 +9108,6 @@ body {
     font-size: 16px;
     border-radius: 8px;
     border: 1px solid #e0e0e0;
-    background-color: #f9f9f9;
     /* 触摸区域优化 */
     min-height: 44px;
     /* 防止iOS缩放 */
@@ -9122,7 +9121,6 @@ body {
     border-color: var(--primary-color);
     outline: none;
     box-shadow: 0 0 0 3px rgba(123,85,239,0.2);
-    background-color: #fff;
   }
   
   /* 优化选择框在移动端的显示 */
@@ -9356,10 +9354,6 @@ button.rechart-button {
   justify-content: space-between;
   margin-bottom: 20px;
   width: 100%;
-}
-
-.tab-navigation-center {
-  /* This will be centered by the space-between on the parent */
 }
 
 .tab-navigation-actions,
@@ -10809,5 +10803,5 @@ button.rechart-button {
 }
 
 
-/*# sourceMappingURL=main.892a4bb41497e7e92ffa.css.map */
-/*# sourceMappingURL=main.892a4bb41497e7e92ffa.css.map*/
+/*# sourceMappingURL=main.ead519c396c2a8b32860.css.map */
+/*# sourceMappingURL=main.ead519c396c2a8b32860.css.map*/
